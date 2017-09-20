@@ -73,7 +73,7 @@ NEEDED_PREFIXES.forEach(function(NEEDED_PREFIX)
 
 C.EXTRA_HEROES_GAMEDATA_FILES.forEach(function(EXTRA_HERO)
 {
-	NEEDED_FILE_PATHS.push("mods\\heroesdata.stormmod\\base.stormdata\\GameData\\Heroes\\" + EXTRA_HERO + "Data.xml");
+	NEEDED_FILE_PATHS.push("mods\\heroesdata.stormmod\\base.stormdata\\GameData\\Heroes\\" + EXTRA_HERO + ".xml");
 });
 
 C.EXTRA_HEROES_GAMEDATA_FOLDERS.forEach(function(EXTRA_HERO)

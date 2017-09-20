@@ -24,10 +24,17 @@ exports.EXTRA_HEROES_HEROMODS_NAMED =
     "dva": "dva",
     "lucio": "lucio",
     "probius" : "probius",
-    "thefirelods": "thefirelods",
+    "thefirelords": "thefirelords",
     "valeera": "valeera",
     "zuljin": "zuljin",
-    "varian": "varian"
+    "varian": "varian",
+    "dva": "dva",
+    "genji": "genji",
+    "malthael" : "malthael",
+    "stukov" : "Stukov",
+    "Garrosh": "Garrosh",
+    "kelthuzad": "kelthuzad",
+    "ana": "ana",
 };
 
 exports.SKIP_HERO_IDS = ["GreymaneWorgen", "ChoGallBundleProduct"];
@@ -90,7 +97,13 @@ exports.EXTRA_HEROES_GAMEDATA_FOLDERS = [
 	"Uther",
 	"WitchDoctor",
 	"Wizard",
-	"Tinker"
+	"Tinker",
+	"Zagara",
+	"Tassadar",
+	"Zeratul",
+	"Diablo",
+	"SgtHammer",
+	"Garrosh"
 ];
 
 exports.HERO_MODIFICATIONS =
